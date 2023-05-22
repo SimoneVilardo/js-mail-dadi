@@ -9,3 +9,5 @@ PROBLEMA:Chiedi all’utente la sua email, controlla che sia nella lista di chi 
 4.? SE corrisponde ad una email stamperà in console 'Elemento trovato'
 
 5.ALTRIMENTI stamperà in console 'Elemento non trovato';
+
+6.mostrare il risultato a video con un alert

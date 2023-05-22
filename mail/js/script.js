@@ -10,8 +10,8 @@ for(let i=0; i<mail.length; i++){
 }
 
 if(flag === true){
-    console.log('Elemento trovato');
+    alert('Elemento trovato');
 }
 else{
-    console.log('Elemento non trovato');
+    alert('Elemento non trovato');
 }
