@@ -1,6 +1,6 @@
 PROBLEMA:Generare un numero random da 1 a 6, sia per il giocatore sia per il computer. Stabilire il vincitore, in base a chi fa il punteggio più alto
 
-1.creo un alert con scritto 'tira i dadi';
+1.creo un alert con scritto 'tira il dado';
 
 2.genera un numero casuale da 1-6 per l'utente; 
 
