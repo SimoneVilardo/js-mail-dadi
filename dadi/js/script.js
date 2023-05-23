@@ -12,6 +12,6 @@ else if (utente < computer){
     alert(`NUMERO UTENTE= "${utente}" < NUMERO COMPUTER= "${computer}" = HAI PERSO!`);
 }
 
-else (utente === computer) ;{
+else  {
     alert(`NUMERO UTENTE= "${utente}" = NUMERO COMPUTER= "${computer}" = PAREGGIO!`);
 }
